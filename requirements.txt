@@ -1,0 +1,6 @@
+PyQt5
+reportlab
+matplotlib
+pandas
+openpyxl
+python-dateutil

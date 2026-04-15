@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Banco de dados (IMPORTANTE!)
+*.db
+*.sqlite
+*.sqlite3
+
+# Backups
+backups/
+*.db.backup
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ambiente virtual
+venv/
+.venv/
+ENV/
+
+# Configurações locais
+config/local_settings.py
+
+# Arquivos de teste
+test_*.py
+*_test.py
+
+# Relatórios gerados
+relatorios/*.pdf
+relatorios/*.xlsx
+
+# Pasta old version
+_old_version/
