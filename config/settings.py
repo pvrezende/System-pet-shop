@@ -12,10 +12,10 @@ DATABASE = {
 
 # Configurações da Aplicação
 APP_CONFIG = {
-    'name': 'Marte Pet Shop',
+    'name': 'System Pet Shop',
     'version': '2.0.0',
-    'company': 'Marte Systems',
-    'window_title': '🐾 Sistema Marte Pet Shop',
+    'company': 'Pet Systems',
+    'window_title': '🐾 Sistema System  Pet Shop',
     'min_width': 1200,
     'min_height': 700
 }

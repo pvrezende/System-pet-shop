@@ -1,4 +1,4 @@
-﻿# 🐾 Sistema Marte Pet Shop
+﻿# 🐾 Sistema Pet Shop
 
 Sistema completo de gerenciamento para Pet Shops com interface gráfica moderna, desenvolvido em Python com PyQt5.
 
@@ -68,7 +68,7 @@ Sistema completo de gerenciamento para Pet Shops com interface gráfica moderna,
 1. **Clone o repositório**
 ```bash
 git clone https://github.com/pvrezende/System-pet-shop.git
-cd Marte_PetShop_System
+cd SYSTEM-PET-SHOP
 ```
 
 2. **Crie um ambiente virtual (recomendado)**
@@ -113,7 +113,7 @@ python main.py
 
 ## 📁 Estrutura do Projeto
 ```
-Marte_PetShop_System/
+SYSTEM-PET-SHOP/
 ├── business/              # Lógica de negócio
 │   ├── produto_service.py
 │   ├── cliente_service.py
